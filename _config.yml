@@ -99,7 +99,7 @@ author:
   github           : "ifeimi"
   google_plus      :
   keybase          :
-  instagram        : "ifeimi_"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -111,11 +111,11 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "飞米黄金规则"
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/98094890"
+  bilibili         : "https://space.bilibili.com/3493122243824427"
 
 
 # Reading Files
@@ -176,9 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  fandom:
-    output: true
-    permalink: /:collection/:path/
+  
 
 
 # Defaults
