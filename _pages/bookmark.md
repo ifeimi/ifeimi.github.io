@@ -9,13 +9,13 @@ Some useful links, documents, and files that might be interesting to share.
 
 ### iCloud Calendar subscription  
 \
-I use Apple iCloud Calendar both in work and life, and am maintaining several useful calendars that might be of interest:  
+I use Apple iCloud Calendar both in work and life, and am maintaining several useful public calendars that might be of interest:  
 \
 [AKB48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GNTNhgzMJxGeVWJ9p-4g1sgAOE2zlE5BUeUfoewECPQjZNGy4ViS-zfdT3BkUyao): Theartre performances and concerts of AKB48.  
 [HKT48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GGyoCNUTEWTsrAXR1jBUNtvVC4FxIv_9ioZsAlKUVeZ3R72HgRaM9Jv9ZVooX0jc): Theartre performances and concerts of HKT48.  
 [GC Frauen](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-87aFlmgc0vDO604UvDuyAy3c-zI8QCUuSGAeCUhDy4xcZf_s_juN2Q9Qdqd_aHLc): Fixtures of [Grasshopper Zürich women's football team](https://gcfrauenfussball.ch/), and some games of Chinese women's football team.  
 \
-Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
+Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
 
 ### AI tools for subtitling
 I'm maintaing an AI-subtitiling tool [WhisperX48](https://github.com/ifeimi/WhisperX48). This project started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper). Modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
