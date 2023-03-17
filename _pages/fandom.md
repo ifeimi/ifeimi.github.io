@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "推し of mine"
-permalink: /fandom
+permalink: /fandom/
 author_profile: true
 ---
 
