@@ -7,17 +7,17 @@ author_profile: true
 
 Some useful links, documents, and files that might be interesting to share.  
 
-### iCalendar subscription  
+### iCloud Calendar subscription  
 \
-I use Apple iCalendar both in work and life, and am maintaining several useful calendars that might be of interest:  
+I use Apple iCloud Calendar both in work and life, and am maintaining several useful calendars that might be of interest:  
 \
 [AKB48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GNTNhgzMJxGeVWJ9p-4g1sgAOE2zlE5BUeUfoewECPQjZNGy4ViS-zfdT3BkUyao): Theartre performances and concerts of AKB48.  
 [HKT48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GGyoCNUTEWTsrAXR1jBUNtvVC4FxIv_9ioZsAlKUVeZ3R72HgRaM9Jv9ZVooX0jc): Theartre performances and concerts of HKT48.  
-[GC Frauen](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-87aFlmgc0vDO604UvDuyAy3c-zI8QCUuSGAeCUhDy4xcZf_s_juN2Q9Qdqd_aHLc): Fixture of [Grasshopper Zürich women's football team](https://gcfrauenfussball.ch/), and some games of Chinese women's football team.  
+[GC Frauen](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-87aFlmgc0vDO604UvDuyAy3c-zI8QCUuSGAeCUhDy4xcZf_s_juN2Q9Qdqd_aHLc): Fixtures of [Grasshopper Zürich women's football team](https://gcfrauenfussball.ch/), and some games of Chinese women's football team.  
 \
 Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
 
-### AI tools for subtitle editting
+### AI tools for subtitling
 I'm maintaing an AI-subtitiling tool [WhisperX48](https://github.com/ifeimi/WhisperX48). This project started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper). Modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
 \
 For my own experiences, different translation tools can be consulted: [ChatGPT](https://openai.com/blog/chatgpt), [DeepL](https://www.deepl.com/translator), [Google Translate](https://translate.google.com/), and a very helpful web dictionary of my favorite - [Jisho.org](https://jisho.org/).  
