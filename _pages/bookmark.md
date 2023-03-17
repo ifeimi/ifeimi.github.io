@@ -18,7 +18,7 @@ I use Apple iCloud Calendar both in work and life, and am maintaining several us
 Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
 
 ### AI tools for subtitling
-I'm maintaing an AI-subtitiling tool [WhisperX48](https://github.com/ifeimi/WhisperX48). This project started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper). Modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
+I'm maintaining an AI-subtitiling tool [WhisperX48](https://github.com/ifeimi/WhisperX48). This project started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper). Modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
 \
 For my own experiences, different translation tools can be consulted: [ChatGPT](https://openai.com/blog/chatgpt), [DeepL](https://www.deepl.com/translator), [Google Translate](https://translate.google.com/), and a very helpful web dictionary of my favorite - [Jisho.org](https://jisho.org/).  
 
