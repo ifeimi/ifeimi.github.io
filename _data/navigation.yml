@@ -3,8 +3,14 @@ main:
   - title: "Fandom"
     url: /fandom/
 
-  - title: "Postcard wall"
-    url: /talks/    
+  - title: "Postcard gallery"
+    url: /gallery/    
+  
+  - title: "Ayane wall"
+    url: /ayanewall/
 
   - title: "Blog"
-    url: /teaching/    
+    url: /blog/
+
+  - title: "Bookmark"
+    url: /bookmark/    
