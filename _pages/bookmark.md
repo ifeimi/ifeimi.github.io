@@ -9,7 +9,7 @@ Some useful links, documents, and files that might be interesting to share.
 
 ### iCalendar subscription  
 \
-I use Apple iCalendar both for work and life, and am maintaining several useful calendars that might be of interest:  
+I use Apple iCalendar both in work and life, and am maintaining several useful calendars that might be of interest:  
 \
 [AKB48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GNTNhgzMJxGeVWJ9p-4g1sgAOE2zlE5BUeUfoewECPQjZNGy4ViS-zfdT3BkUyao): Theartre performance and concerts of AKB48.  
 [HKT48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GGyoCNUTEWTsrAXR1jBUNtvVC4FxIv_9ioZsAlKUVeZ3R72HgRaM9Jv9ZVooX0jc): Theartre performance and concerts of HKT48.  
