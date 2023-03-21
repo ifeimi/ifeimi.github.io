@@ -1,8 +1,6 @@
 ---
-layout: single
 title: "Bookmark"
 permalink: /bookmark/
-author_profile: true
 ---
 
 Some useful links, documents, and files that might be interesting to share.  
@@ -18,9 +16,7 @@ I use Apple iCloud Calendar both in work and life, and am maintaining several us
 Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
 
 ### AI tools for subtitling
-I'm maintaining an AI-subtitiling tool [WhisperX48](https://github.com/ifeimi/WhisperX48). This project started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper). Modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
-\
-For my own experiences, different translation tools can be consulted: [ChatGPT](https://openai.com/blog/chatgpt), [DeepL](https://www.deepl.com/translator), [Google Translate](https://translate.google.com/), and a very helpful web dictionary of my favorite - [Jisho.org](https://jisho.org/).  
+I'm maintaining an AI-subtitiling tool Whisper48. Consult [github project](https://github.com/ifeimi/WhisperX48) or [this page](https://ifeimi.github.io/whisper48/) for more information. 
 
 ### My personal workflow for video editting
 I am kind of experienced in video editting. I started when I was in college in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  

@@ -194,20 +194,23 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "/fandom/"
       type: pages
     values:
       layout: single
       author_profile: true
-  # _fandom
   - scope:
-      path: ""
+      path: "/whisper48/"
       type: pages
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+  - scope:
+      path: "/bookmark/"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:

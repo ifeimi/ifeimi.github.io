@@ -1,8 +1,6 @@
 ---
-layout: single
 title: "推し of mine"
 permalink: /fandom/
-author_profile: true
 ---
 
 推し, in Japanese, is used to descibe "[someone you like so much that you want to recommend them to others](https://ja.wikipedia.org/wiki/%E6%8E%A8%E3%81%97)". I list here my favorite idols: those I like the most, as well as those I possess a minor positive feeling.  
