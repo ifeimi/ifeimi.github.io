@@ -197,19 +197,19 @@ defaults:
       path: "/fandom/"
       type: pages
     values:
-      layout: single
+      layout: "single"
       author_profile: true
   - scope:
       path: "/whisper48/"
       type: pages
     values:
-      layout: single
+      layout: "single"
       author_profile: true
   - scope:
       path: "/bookmark/"
       type: pages
     values:
-      layout: single
+      layout: "single"
       author_profile: true
 
 # Sass/SCSS
