@@ -14,7 +14,7 @@ In December 2022, OpenAI published their general-purpose speech recognition mode
 \
 It turns out that this speech recognition model is super-helpful in the context of subtitiling. [Buzz](https://github.com/chidiwilliams/buzz) for example, an GUI integration of Whisper, has received 3.6k stars on GitHub for now.  
 \
-Subtitling, especially timestamping can be a tedious work, so that's where Whisper comes in. Powered by Whisper, Ayanamin developed [N46Whisper](https://github.com/Ayanaminn/N46Whisper) for subtitiling of Nogizaka 46 videos. This project is deployed on Google Colab, therefore taking advantage of free GPU offered on the cloud. 
+Subtitling, especially timestamping can be a tedious work, so that's where Whisper comes in. Powered by Whisper, Ayanaminn developed [N46Whisper](https://github.com/Ayanaminn/N46Whisper) for subtitiling of Nogizaka 46 videos. This project is deployed on Google Colab, therefore taking advantage of free GPU offered on the cloud. 
 \
 This project, [Whisper48](https://github.com/ifeimi/
 Whisper48), started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper) and sticked to the idea of running on Google Colab (simply because I don't have enough GPU!). Minor modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
