@@ -5,7 +5,9 @@ layout: single
 author_profile: true
 ---
 
-AI is changing our life! Take good notice of it : \)    
+This is an introduction of my [Whisper48 project](https://github.com/ifeimi/Whisper48).  
+\
+AI is changing our life! Take good notice of it : \)  
 
 ### About the project
 In December 2022, OpenAI published their general-purpose speech recognition model [Whisper](https://github.com/openai/whisper), which was trained on a large dataset of diverse audio and is able to perform multilingual speech recognition, speech translation, and language identification.  
@@ -17,8 +19,7 @@ Subtitling, especially timestamping can be a tedious work, so that's where Whisp
 This project, [Whisper48](https://github.com/ifeimi/
 Whisper48), started as a fork from [N46Whisper](https://github.com/Ayanaminn/N46Whisper) and sticked to the idea of running on Google Colab (simply because I don't have enough GPU!). Minor modifications were made to incorporate the usage of more accurate Whisper-based models ([WhisperX](https://github.com/m-bain/whisperX) for example) and to adapt for other personal demands.  
 \
-In principle, usage of this kind of tools like [N46Whisper](https://github.com/Ayanaminn/N46Whisper) or [Whisper48](https://github.com/ifeimi/
-Whisper48) should not be limited only to Nogizaka 48 or AKB48 videos. Thanks to the multilingual power of [Whisper](https://github.com/openai/whisper), videos in any common languages (French, German, Korean, ...) are all supported. 
+In principle, usage of this kind of tools like [N46Whisper](https://github.com/Ayanaminn/N46Whisper) or [Whisper48](https://github.com/ifeimi/Whisper48) should not be limited only to Nogizaka 48 or AKB48 videos. Thanks to the multilingual power of [Whisper](https://github.com/openai/whisper), videos in any common languages (French, German, Korean, ...) are all supported. 
 
 ### Translation  
 
