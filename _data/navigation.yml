@@ -13,5 +13,8 @@ main:
   - title: "Blog"
     url: /blog/
 
+  - title: "Whisper48"
+    url: /whisper48/    
+
   - title: "Bookmark"
     url: /bookmark/    
