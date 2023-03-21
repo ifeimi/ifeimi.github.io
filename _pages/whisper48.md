@@ -1,7 +1,7 @@
 ---
 title: "Whisper48"
 permalink: /whisper48/
-layout: "single"
+layout: single
 author_profile: true
 ---
 

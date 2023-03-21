@@ -1,7 +1,7 @@
 ---
 title: "Bookmark"
 permalink: /bookmark/
-layout: "single"
+layout: single
 author_profile: true
 ---
 

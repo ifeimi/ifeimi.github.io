@@ -1,7 +1,7 @@
 ---
 title: "推し of mine"
 permalink: /fandom/
-layout: "single"
+layout: single
 author_profile: true
 ---
 

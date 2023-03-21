@@ -1,7 +1,7 @@
 ---
 title: "推的成员"
 permalink: /zh/fandom
-layout: "single"
+layout: single
 author_profile: true
 ---
 
