@@ -1,6 +1,8 @@
 ---
 title: "Whisper48"
 permalink: /whisper48/
+layout: "single"
+author_profile: true
 ---
 
 AI is changing our life! Take good notice of it : \)    

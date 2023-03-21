@@ -1,6 +1,8 @@
 ---
 title: "Bookmark"
 permalink: /bookmark/
+layout: "single"
+author_profile: true
 ---
 
 Some useful links, documents, and files that might be interesting to share.  
