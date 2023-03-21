@@ -18,7 +18,7 @@ I use Apple iCloud Calendar both in work and life, and am maintaining several us
 Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
 
 ### AI tools for subtitling
-I'm maintaining an AI-subtitiling tool Whisper48. Consult [github project](https://github.com/ifeimi/WhisperX48) or [this page](https://ifeimi.github.io/whisper48/) for more information. 
+I'm maintaining an AI-subtitiling tool Whisper48. Consult [github project](https://github.com/ifeimi/Whisper48) or [this page](https://ifeimi.github.io/whisper48/) for more information. 
 
 ### My personal workflow for video editting
 I am kind of experienced in video editting. I started when I was in college in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  
