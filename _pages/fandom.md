@@ -10,27 +10,27 @@ author_profile: true
 This is only a casual introduction of whom I'm fond of and nothing serious! As what the word itself suggests, I strongly encourage you to become a fan of my 推しs as well : \)  
 
 * ### Major 推し：  
-    * AKB48 Team SH 桂楚楚，AKB48 Team 8 髙橋彩音，HKT48 Team H 矢吹奈子  
+    * AKB48 Team SH 桂楚楚，AKB48 Team 8 髙橋彩音
 
 * ### Other 推し：  
-    * AKB48 Team 8: 倉野尾成美，小栗有以，濵咲友菜  
+    * AKB48 Team 8: 倉野尾成美，濵咲友菜，小栗有以
     * AKB48 Team A/K/B/4: 山内瑞葵  
     * HKT48: 地頭江音々  
 
 * ### Other members I like：  
-    * AKB48 Team 8: 徳永羚海，橋本陽菜，本田仁美，坂口渚沙	
+    * AKB48 Team 8: 本田仁美，徳永羚海，橋本陽菜，坂口渚沙	
     * AKB48 Team A/K/B/4: 佐藤美波
-    * HKT48: 田中美久，運上弘菜，竹本くるみ，山下エミリー
+    * HKT48: 運上弘菜，田中美久，江口心々華，山下エミリー，竹本くるみ
 
 * ### Other members I have some positive feelings：  
-    *  AKB48 Team 8: 岡部麟，清水麻璃亜，吉川七瀬，小田えりな，坂川陽香，永野芹佳，大西桃香，行天優莉奈  
-    * AKB48 Team A/K/B/4/研: 村山彩希，大盛真歩，千葉恵里，田口愛佳，浅井七海，正鋳真優
-    * HKT48: 本村碧唯，松岡はな，小田彩加，石橋颯，市村愛里，後藤陽菜乃，長野雅，村上和叶，江口心々華，福井可憐，梁瀬鈴雅 (Almost everyone in the group! )
-
+    *  AKB48 Team 8: 岡部麟，小田えりな，坂川陽香，吉川七瀬，清水麻璃亜，永野芹佳，大西桃香，行天優莉奈，藤園麗
+    * AKB48 Team A/K/B/4/研: 千葉恵里，田口愛佳，村山彩希，大盛真歩，浅井七海，橋本恵理子，正鋳真優
+    * HKT48: 石橋颯，本村碧唯，松岡はな，小田彩加，市村愛里，後藤陽菜乃，生野莉奈，梁瀬鈴雅 (Almost everyone in the group! )
+    
 * ### Members I like, but graduated (sad but best wishes to them)：  
     * AKB48 Team 8: 宮里莉羅，長久玲奈，横道侑里，中野郁海
-    * AKB48 Team A/K/B/4: 渡辺麻友，島崎遥香
-    * HKT48: 指原莉乃，宮脇咲良，松岡菜摘，田島芽瑠，松本日向，水上凜巳花，渡部愛加里
+    * AKB48 Team A/K/B/4: 渡辺麻友
+    * HKT48: 宮脇咲良，松本日向，水上凜巳花，渡部愛加里，矢吹奈子
 
 
 

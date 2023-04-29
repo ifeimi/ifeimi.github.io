@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ifeimi site"
+title                    : "ifeimi homepage"
 title_separator          : "-"
 name                     : &name "feimi"
 description              : &description "personal description"
