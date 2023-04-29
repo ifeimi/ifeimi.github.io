@@ -6,9 +6,6 @@ main:
 
   - title: "Postcard gallery"
     url: /gallery/    
-  
-  - title: "Ayane wall"
-    url: /ayanewall/
 
   - title: "Blog"
     url: /blog/
