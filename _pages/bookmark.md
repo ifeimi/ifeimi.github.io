@@ -35,6 +35,7 @@ I will continously upload *timestamped* AKB48 lyrics after I made such videos. T
 Update log:  
 23.04.29  - All 16 of Team 8's original songs  
 
+
 ### My personal workflow for video editting
 
 I am kind of experienced in video editting. I started in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  
@@ -50,7 +51,25 @@ I use (at least from this year) open-sourced fonts [Noto](https://fonts.google.c
 
 I've been seeing and collecting interesting (and sometimes weird) things online from time to time. Why don't we share them and find if something is suprisingly helpful!  
 
-* [Palette](https://palette.fm/): AI-colorize your black-and-white photo.  
+#### Graphic, video and game
+
+* [ezgif](https://ezgif.com/): Online gif editting tool (crop, change speed, resize,...). Helpful if you want to make a gif out of an idol stage or a football game...  
 * [Minesweeper Online](http://www.minesweeper.cn/): Play the famous Minesweeper game online, challenge yourself with a full-screen super-large minefield!  
-* [cloudconvert](https://cloudconvert.com/): Convert your file between various formats - images, audios, videos, documents, presentations, ...
+
+
+#### Language
+
+* [AZRhymes](https://zh.azrhymes.com/?strict=1): Chinese rhyming dictionary. 
+
+
+#### AI, computer science and science
+
+* [Palette](https://palette.fm/): AI-colorize your black-and-white photo.  
+* [cloudconvert](https://cloudconvert.com/): Convert your file between various formats - images, audios, videos, documents, presentations, ...  
 * [Markdown documentation in Chinese](https://markdown-zh.readthedocs.io/en/latest/): Just... Markdown documentation in Chinese, very helpful if you want to learn Markdown.  
+
+
+#### Railway and public transportations
+
+* [Open Railway Map](https://openrailwaymap.org/): A detailed map of railways (including metros and trams). Super-riched information, I love it!  
+* [China Railway Map](http://cnrail.geogv.org/zhcn/): China railway map, not so comprehensive as *Open Railway Map*.  

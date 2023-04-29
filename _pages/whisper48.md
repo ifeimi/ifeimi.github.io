@@ -5,8 +5,10 @@ layout: single
 author_profile: true
 ---
 
+*This page is nolonger up-to-date and is subjected to a major revision in the near future.*  
+
 This is an introduction of my [Whisper48 project](https://github.com/ifeimi/Whisper48).  
-\
+
 AI is changing our life! Take good notice of it : \)  
 
 ### About the project
