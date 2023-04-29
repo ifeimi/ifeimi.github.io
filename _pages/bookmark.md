@@ -57,19 +57,19 @@ I've been seeing and collecting interesting (and sometimes weird) things online 
   * [Minesweeper Online](http://www.minesweeper.cn/): Play the famous Minesweeper game online, challenge yourself with a full-screen super-large minefield!  
 
 
-* #### Language
+* ### Language
 
   * [AZRhymes](https://zh.azrhymes.com/?strict=1): Chinese rhyming dictionary. 
 
 
-* #### AI, computer science and science
+* ### AI, computer science and science
 
   * [Palette](https://palette.fm/): AI-colorize your black-and-white photo.  
   * [cloudconvert](https://cloudconvert.com/): Convert your file between various formats - images, audios, videos, documents, presentations, ...  
   * [Markdown documentation in Chinese](https://markdown-zh.readthedocs.io/en/latest/): Just... Markdown documentation in Chinese, very helpful if you want to learn Markdown.  
 
 
-* #### Railway and public transportations
+* ### Railway and public transportations
 
   * [Open Railway Map](https://openrailwaymap.org/): A detailed map of railways (including metros and trams). Super-riched information, I love it!  
   * [China Railway Map](http://cnrail.geogv.org/zhcn/): China railway map, not so comprehensive as *Open Railway Map*.  
