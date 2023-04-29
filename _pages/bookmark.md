@@ -22,7 +22,7 @@ Subscriptions (by simply clicking the calendar names above) are highly welcome. 
 
 I will continously upload *timestamped* AKB48 lyrics after I made such videos. They are shared on my Google Drive, [click to open](https://drive.google.com/drive/folders/1oXF-MW6J_jkjdkQ2gXdS2mIRIUMsD14q?usp=share_link). The idea is to save you the labour of timestamping and maybe contribute some Chinese translations. Please take notice of the following notes:  
 
-* I share .ass files where my personal format is integrated. Feel free to use them if you like, and also feel free to change to your own style if you like. 
+* I share .ass files where my personal format has been integrated. Feel free to use them if you like, otherwise also feel free to change to your own style. 
 
 * My timestamps are completely free for use. There's no need to acknowledge me in any form if you use only my timestamps in your work. A feature of my timestamping (it's a recommendation as well) is that lyrics are set to *offset audio by -0.5 s*, thus they are easy to follow when you sing along. Use the time-shifting tool provided in your subtitle editting software to *shift all lyrics at the same time*, then there's normally no need to adjust for each sentence.  
 
@@ -37,7 +37,7 @@ Update log:
 
 ### My personal workflow for video editting
 
-I am kind of experienced in video editting. I started when I was in college in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  
+I am kind of experienced in video editting. I started in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  
 
 However, after graduation, Adobe softwares were no longer available for free. Then I switched to open-sourced [kdenlive](https://kdenlive.org/en/) in 2021, which I was not quite accustomed to actually. Therefore after I saw a recommendation of [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) from [Mediastorm](https://space.bilibili.com/946974), I immediately started with it. The free version of DaVinci Resolve already offers more than enough functions for me. So I believe I will continue using it for a long time.  
 
