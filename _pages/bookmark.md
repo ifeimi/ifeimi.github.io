@@ -20,13 +20,13 @@ Subscriptions (by simply clicking the calendar names above) are highly welcome. 
 
 ### AKB lyrics
 
-I will continously upload *timestamped* AKB48 lyrics after I made such videos. They are shared on my Google Drive, [click to open](https://drive.google.com/drive/folders/1oXF-MW6J_jkjdkQ2gXdS2mIRIUMsD14q?usp=share_link). The idea is to save you the labour of timestamping and maybe contribute some Chinese translations. Please take notice of the following notes:  
+I will continously upload *timestamped* AKB48 lyrics after I made such videos. They are shared on my Google Drive ([click to open](https://drive.google.com/drive/folders/1oXF-MW6J_jkjdkQ2gXdS2mIRIUMsD14q?usp=share_link)). The idea is to save you the labour of timestamping and maybe contribute some Chinese translations as well. Please take notice of the following notes:  
 
-* I share .ass files where my personal format has been integrated. Feel free to use them if you like, otherwise also feel free to change to your own style. 
+* I share .ass files where my personal style has been integrated. Feel free to use them if you like, otherwise also feel free to change to your own style. 
 
-* My timestamps are completely free for use. There's no need to acknowledge me in any form if you use only my timestamps in your work. A feature of my timestamping (it's a recommendation as well) is that lyrics are set to *offset audio by -0.5 s*, thus they are easy to follow when you sing along. Use the time-shifting tool provided in your subtitle editting software to *shift all lyrics at the same time*, then there's normally no need to adjust for each sentence.  
+* My timestamps are completely free for use. There's no need to acknowledge me in any form if you use only my timestamps in your work. A feature of my timestamping (it's a recommendation as well) is that lyrics are set to *offset audio by -0.5 s*, thus they are easy to follow when you sing along. Use the time-shifting tool provided in your subtitle editting software to *shift all lyrics at the same time*, then there's normally no need to adjust for each sentence respectively.  
 
-* My Chinese translations are shared under **CC BY-NC-SA 4.0** license ([see creative commons website for more information](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Bascially, that means you can use my work freely, without contact me first, *for non-commercial purposes*. Just make sure to *credit me* (mention my name), and, if you make any modifications, release your modifications under the identical license.  
+* My Chinese translations are shared under **CC BY-NC-SA 4.0** license ([see creative commons website for more information](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Bascially, that means you can use my work freely, without contacting me first, *for non-commercial purposes*. Just make sure to *credit me* (mention my name), and, if you make any modification, release your modifications under the identical license.  
 
 * Chinese translations by other people are *not* included in my shares due to copyright reasons. Please refer to their individual sources for authorization and conditions of sharing.  
 
@@ -40,7 +40,7 @@ Update log:
 
 I am kind of experienced in video editting. I started in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  
 
-However, after graduation, Adobe softwares were no longer available for free. Then I switched to open-sourced [kdenlive](https://kdenlive.org/en/) in 2021, which I was not quite accustomed to actually. Therefore after I saw a recommendation of [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) from [Mediastorm](https://space.bilibili.com/946974), I immediately started with it. The free version of DaVinci Resolve already offers more than enough functions for me. So I believe I will continue using it for a long time.  
+However, after graduation, Adobe softwares were no longer available for free. Then I switched to open-sourced [kdenlive](https://kdenlive.org/en/) in 2021, which I was not quite accustomed to actually. Therefore after I saw a recommendation  from [Mediastorm](https://space.bilibili.com/946974), I immediately started with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve). The free version of DaVinci Resolve already offers more than enough functions for me. So I believe I will continue using it for a long time.  
 
 I edit subtitiles with [Aegisub](https://aegisite.vercel.app/), and export videos with hard-coded subtitles using [ArcTime Pro](https://arctime.org/).  
 
@@ -51,25 +51,25 @@ I use (at least from this year) open-sourced fonts [Noto](https://fonts.google.c
 
 I've been seeing and collecting interesting (and sometimes weird) things online from time to time. Why don't we share them and find if something is suprisingly helpful!  
 
-#### Graphic, video and game
+* ### Graphic, video and game
 
-* [ezgif](https://ezgif.com/): Online gif editting tool (crop, change speed, resize,...). Helpful if you want to make a gif out of an idol stage or a football game...  
-* [Minesweeper Online](http://www.minesweeper.cn/): Play the famous Minesweeper game online, challenge yourself with a full-screen super-large minefield!  
-
-
-#### Language
-
-* [AZRhymes](https://zh.azrhymes.com/?strict=1): Chinese rhyming dictionary. 
+  * [ezgif](https://ezgif.com/): Online gif editting tool (crop, change speed, resize,...). Helpful if you want to make a gif out of an idol stage or a football game...  
+  * [Minesweeper Online](http://www.minesweeper.cn/): Play the famous Minesweeper game online, challenge yourself with a full-screen super-large minefield!  
 
 
-#### AI, computer science and science
+* #### Language
 
-* [Palette](https://palette.fm/): AI-colorize your black-and-white photo.  
-* [cloudconvert](https://cloudconvert.com/): Convert your file between various formats - images, audios, videos, documents, presentations, ...  
-* [Markdown documentation in Chinese](https://markdown-zh.readthedocs.io/en/latest/): Just... Markdown documentation in Chinese, very helpful if you want to learn Markdown.  
+  * [AZRhymes](https://zh.azrhymes.com/?strict=1): Chinese rhyming dictionary. 
 
 
-#### Railway and public transportations
+* #### AI, computer science and science
 
-* [Open Railway Map](https://openrailwaymap.org/): A detailed map of railways (including metros and trams). Super-riched information, I love it!  
-* [China Railway Map](http://cnrail.geogv.org/zhcn/): China railway map, not so comprehensive as *Open Railway Map*.  
+  * [Palette](https://palette.fm/): AI-colorize your black-and-white photo.  
+  * [cloudconvert](https://cloudconvert.com/): Convert your file between various formats - images, audios, videos, documents, presentations, ...  
+  * [Markdown documentation in Chinese](https://markdown-zh.readthedocs.io/en/latest/): Just... Markdown documentation in Chinese, very helpful if you want to learn Markdown.  
+
+
+* #### Railway and public transportations
+
+  * [Open Railway Map](https://openrailwaymap.org/): A detailed map of railways (including metros and trams). Super-riched information, I love it!  
+  * [China Railway Map](http://cnrail.geogv.org/zhcn/): China railway map, not so comprehensive as *Open Railway Map*.  
