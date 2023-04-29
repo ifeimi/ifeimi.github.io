@@ -53,7 +53,7 @@ I've been seeing and collecting interesting (and sometimes weird) things online 
 
 * ### Graphic, video and game
 
-  * [ezgif](https://ezgif.com/): Online gif editting tool (crop, change speed, resize,...). Helpful if you want to make a gif out of an idol stage or a football game...  
+  * [ezgif](https://ezgif.com/): Online gif editting tool (crop, change speed, resize,...). Helpful if you want to make a gif out of an idol stage performance or a football game...  
   * [Minesweeper Online](http://www.minesweeper.cn/): Play the famous Minesweeper game online, challenge yourself with a full-screen super-large minefield!  
 
 
