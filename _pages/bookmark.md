@@ -36,6 +36,10 @@ Update log:
 23.04.29  - All 16 of Team 8's original songs  
 
 
+### Soft subs
+
+In case of copyright protection, hard-subtitled videos cannot be shared. Therefore I upload soft subs to Google Drive as well([click to open](https://drive.google.com/drive/folders/1zP_666DtbGYoVOThPx1Nul5K8PlJdRis?usp=drive_link)).  
+
 ### My personal workflow for video editting
 
 I am kind of experienced in video editting. I started in 2017, using [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) because my university provided free license for students.  
