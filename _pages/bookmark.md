@@ -13,7 +13,6 @@ I use Apple iCloud Calendar both in work and life, and am maintaining several us
 
 [AKB48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GNTNhgzMJxGeVWJ9p-4g1sgAOE2zlE5BUeUfoewECPQjZNGy4ViS-zfdT3BkUyao): Theartre performances and concerts of AKB48.  
 [HKT48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GGyoCNUTEWTsrAXR1jBUNtvVC4FxIv_9ioZsAlKUVeZ3R72HgRaM9Jv9ZVooX0jc): Theartre performances and concerts of HKT48.  
-[GC Frauen](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-87aFlmgc0vDO604UvDuyAy3c-zI8QCUuSGAeCUhDy4xcZf_s_juN2Q9Qdqd_aHLc): Fixtures of [Grasshopper Zürich women's football team](https://gcfrauenfussball.ch/), and of Chinese women's football team.  
 
 Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Summer Time, UTC+2:00).  
 
@@ -35,10 +34,6 @@ I will continously upload *timestamped* AKB48 lyrics after I made such videos. T
 Update log:  
 23.04.29  - All 16 of Team 8's original songs  
 
-
-### Soft subs
-
-In case of copyright protection, hard-subtitled videos cannot be shared. Therefore I upload soft subs to Google Drive as well([click to open](https://drive.google.com/drive/folders/1zP_666DtbGYoVOThPx1Nul5K8PlJdRis?usp=drive_link)).  
 
 ### My personal workflow for video editting
 
