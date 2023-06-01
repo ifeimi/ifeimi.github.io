@@ -35,7 +35,7 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 
 
 
-### Top 10 playlist of this month (2023.03)：
+### Last month's top 10 playlist (2023.03)：
 1. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm?si=73bc29b7853a412a)  
 2. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y?si=10bf958e12e74551)  
 3. [引っ越しました](https://open.spotify.com/track/4waGFpTJwxR3vtyzPDy5an?si=993349ab17764549)  
@@ -46,3 +46,27 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4?si=80b6c4ceda21453d)  
 9. [ウィンクは3回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG?si=b7ed6486133b40b1)  
 10. [君はもっとできる](https://open.spotify.com/track/2dgP7Se9sBdETi1eGTrjah?si=0111f45e5fe84d95)  
+
+### Last month's top 10 playlist (2023.04)：
+1. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y?si=10bf958e12e74551)  
+2. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN?si=67fb9b4539a443c5)  
+3. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm?si=73bc29b7853a412a)  
+4. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4?si=80b6c4ceda21453d)  
+5. [好きだ 好きだ 好きだ](https://open.spotify.com/track/4oOFX9plRJ9I0XjXtLsQOb?si=22cb9510fe654623)  
+6. [一生の間に何人と出逢えるのだろう](https://open.spotify.com/track/7rmmVnvC8R1br9wDU3A2T8?si=e6d2ff46a0a44d1a)  
+7. [47の素敵な街へ](https://open.spotify.com/track/3O61qeWevqN5IJi1GBFOJy?si=1c08f6a33ef24dc3)  
+8. [蜂の巣ダンス](https://open.spotify.com/track/7cLBuTgnDqzcxUZ3ZUn5lw?si=818e12bd42c9424c)  
+9. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3?si=b14be1dee40746e8)  
+10. [久しぶりのリップグロス](https://open.spotify.com/track/6aUuSvVGMMHL15v4d2qWie?si=8231414cc4ed4f4e)  
+
+### Last month's top 10 playlist (2023.05)：
+1. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm)  
+2. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+3. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
+4. [好きだ 好きだ 好きだ](https://open.spotify.com/track/4oOFX9plRJ9I0XjXtLsQOb)  
+5. [希望的リフレイン](https://open.spotify.com/track/635CphQ5L3dZGLPVZXTT62)  
+6. [最高かよ](https://open.spotify.com/track/6wgJfy5bVOhEiKz08YaV64)  
+7. [根も葉もRumor](https://open.spotify.com/track/2l0gIK1rMEDPuQUCCZ32yk)  
+8. [ビーサンはなぜなくなるのか?](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
+9. [久しぶりのリップグロス](https://open.spotify.com/track/6aUuSvVGMMHL15v4d2qWie)  
+10. [彼女](https://open.spotify.com/track/756IqF25nTtb4ycuqnEXB1)  
