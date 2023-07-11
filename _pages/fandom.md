@@ -24,7 +24,7 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 
 * ### Other members I have some positive feelings：  
     * AKB48 Team 8:小田えりな，本田仁美，岡部麟，吉川七瀬，清水麻璃亜，永野芹佳，大西桃香，行天優莉奈
-    * AKB48 Team A/K/B/4/研: 千葉恵里，田口愛佳，村山彩希，大盛真歩，浅井七海，橋本恵理子，山口結愛
+    * AKB48 Team A/K/B/4/研: 千葉恵里，田口愛佳，村山彩希，大盛真歩，浅井七海，橋本恵理子
     * HKT48: 石橋颯，本村碧唯，松岡はな，小田彩加，市村愛里，生野莉奈，梁瀬鈴雅 (Almost everyone in the group! )
     
 * ### Members I like, but graduated (sad but best wishes to them)：  
