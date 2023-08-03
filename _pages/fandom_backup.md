@@ -70,3 +70,15 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [ビーサンはなぜなくなるのか?](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
 9. [久しぶりのリップグロス](https://open.spotify.com/track/6aUuSvVGMMHL15v4d2qWie)  
 10. [彼女](https://open.spotify.com/track/756IqF25nTtb4ycuqnEXB1)  
+
+### Last month's top 10 playlist (2023.06)：
+1. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm)  
+2. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
+3. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+4. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+5. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+6. [引っ越しました](https://open.spotify.com/track/4waGFpTJwxR3vtyzPDy5an)  
+7. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+8. [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt)  
+9. [#好きなんだ](https://open.spotify.com/track/00hKXSYPI5E92fnC6uRidD)  
+10. [ウインクは3回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG)  

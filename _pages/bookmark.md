@@ -58,7 +58,7 @@ I've been seeing and collecting interesting (and sometimes weird) things online 
 
 * ### Language
 
-  * [AZRhymes](https://zh.azrhymes.com/?strict=1): Chinese rhyming dictionary. 
+  * [AZRhymes](https://zh.azrhymes.com/?strict=1): Rhyming dictionary for Chinese. 
 
 
 * ### AI, computer science and science
