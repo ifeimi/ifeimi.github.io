@@ -82,3 +82,27 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt)  
 9. [#好きなんだ](https://open.spotify.com/track/00hKXSYPI5E92fnC6uRidD)  
 10. [ウインクは3回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG)  
+
+### Last month's top 10 playlist (2023.07)：
+1. [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) 
+2. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm)  
+3. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y) 
+4. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV) 
+5. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+6. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+7. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+8. [キスは待つしかないのでしょうか?](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+9. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
+10. [久しぶりのリップグロス](https://open.spotify.com/track/6aUuSvVGMMHL15v4d2qWie)  
+
+### Last month's top 10 playlist (2023.08)：
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt)  
+3. [キスは待つしかないのでしょうか?](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+4. [Everyday、カチューシャ](https://open.spotify.com/track/6CJ3V6MRmcsjlJHZ48J5Ud)  
+5. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+6. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+7. [君はもっとできる](https://open.spotify.com/track/2dgP7Se9sBdETi1eGTrjah)  
+8. [ぶっ倒れるまで](https://open.spotify.com/track/2VA1ZF4gg7AZvwnM89d9wi)  
+9. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
+10. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm)  
