@@ -106,3 +106,15 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [ぶっ倒れるまで](https://open.spotify.com/track/2VA1ZF4gg7AZvwnM89d9wi)  
 9. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
 10. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm)  
+
+### Last month's top 10 playlist (2023.09)：
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
+3. [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt)  
+4. [ロマンティック病](https://open.spotify.com/track/2kv7ZJymU4H8k7mLGhr8rw)  
+5. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+6. [ファースト・ラビット](https://open.spotify.com/track/5bHCy8fPuDEhPmhkc74wzu)
+7. [Everyday、カチューシャ](https://open.spotify.com/track/6CJ3V6MRmcsjlJHZ48J5Ud)  
+8. [好きだ 好きだ 好きだ](https://open.spotify.com/track/4oOFX9plRJ9I0XjXtLsQOb)  
+9. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+10. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
