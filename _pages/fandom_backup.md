@@ -1,5 +1,5 @@
 ---
-title: "推し of mine"
+title: "推し of mine_backup"
 permalink: /fandom_backup/
 layout: single
 author_profile: true
@@ -118,3 +118,15 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [好きだ 好きだ 好きだ](https://open.spotify.com/track/4oOFX9plRJ9I0XjXtLsQOb)  
 9. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
 10. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+
+### Last month's top 10 playlist (2023.10)：
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
+3. [Choose me!](https://open.spotify.com/track/42hZPol0ZeU4l37LtIfkzJ)  
+4. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV)  
+5. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)
+6. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+7. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm)
+8. [HKT城、今、動く](https://open.spotify.com/track/52H50eERzgORnx6PyLPFl4)  
+9. [突然 Do love me!](https://open.spotify.com/track/5PmE6alUsOcJw6e1kTtI6z)  
+10. [10年桜](https://open.spotify.com/track/7cyxw7Vy1RG64hyhXtNwWK)  

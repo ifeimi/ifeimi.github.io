@@ -11,4 +11,4 @@ redirect_from:
 
 Welcome!
 ======
-This is a non-academical home site of mine! 
+This is a non-academical personal homepage of mine! 

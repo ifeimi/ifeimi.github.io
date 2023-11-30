@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "feimi"
   avatar           : "profile.png"
-  bio              : "student, fan, life-enthusiast"
-  location         : "Zürich, Switzerland"
-  employer         : "EPFL / ETH Zürich"
+  bio              : "chemist, fan, life-enthusiast"
+  location         : "Aachen, Germany"
+  employer         : "Max-Planck-Gesellschaft"
   pubmed           : 
   googlescholar    : 
-  email            : "yfwu0202@gmail.com"
+  email            : "ifeimi48@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -210,7 +210,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

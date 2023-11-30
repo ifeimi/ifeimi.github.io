@@ -5,44 +5,43 @@ layout: single
 author_profile: true
 ---
 
-推し, in Japanese, is used to descibe "[someone you like so much that you want to recommend them to others](https://ja.wikipedia.org/wiki/%E6%8E%A8%E3%81%97)". I list here my favorite idols: those I like the most, as well as those I possess a minor positive feeling.  
+在日语中，「推し」一词是指“[非常喜欢以至于想要推荐给其他人的人](https://ja.wikipedia.org/wiki/%E6%8E%A8%E3%81%97)”。在这里我列出了本人的推（们）：既有我非常喜欢的成员，也有还没到很喜欢的程度但依然觉得她们还不错的成员。  
 \
-This is only a casual introduction of whom I'm fond of and nothing serious! As what the word itself suggests, I strongly encourage you to become a fan of my 推しs as well : \)  
+这只是一则简单且毫不严肃的介绍！正如这个词语本身的含义所指示的那样，我会推荐你也来推我的推: \)  
 
-* ### Major 推し：  
-    * AKB48 Team SH 桂楚楚，AKB48 Team 8 髙橋彩音，HKT48 Team H 矢吹奈子  
+* ### 本人的首推：  
+    * AKB48 Team SH 桂楚楚，AKB48 Team 8 髙橋彩音
 
-* ### Other 推し：  
-    * AKB48 Team 8: 倉野尾成美，小栗有以，濵咲友菜  
-    * AKB48 Team A/K/B/4: 山内瑞葵  
-    * HKT48: 地頭江音々  
+* ### 其他推：  
+    * AKB48 Team 8: 倉野尾成美
+    * AKB48 Team A/K/B/4: 山内瑞葵
+    * HKT48: 江口心々華，生野莉奈，渋井美奈
 
-* ### Other members I like：  
-    * AKB48 Team 8: 徳永羚海，橋本陽菜，本田仁美，坂口渚沙	
-    * AKB48 Team A/K/B/4: 佐藤美波
-    * HKT48: 田中美久，運上弘菜，竹本くるみ，山下エミリー
+* ### 喜欢的其他成员：  
+    * AKB48 Team 8: 小栗有以，坂川陽香，徳永羚海
+    * AKB48 Team A/K/B/4: 佐藤美波，橋本恵理子，田口愛佳
+    * HKT48: 地頭江音々，田中美久，山下エミリー，森﨑冴彩
 
-* ### Other members I have some positive feelings：  
-    *  AKB48 Team 8: 岡部麟，清水麻璃亜，吉川七瀬，小田えりな，坂川陽香，永野芹佳，大西桃香，行天優莉奈  
-    * AKB48 Team A/K/B/4/研: 村山彩希，大盛真歩，千葉恵里，田口愛佳，浅井七海，正鋳真優
-    * HKT48: 本村碧唯，松岡はな，小田彩加，石橋颯，市村愛里，後藤陽菜乃，長野雅，村上和叶，江口心々華，福井可憐，梁瀬鈴雅 (Almost everyone in the group! )
-
-* ### Members I like, but graduated (sad but best wishes to them)：  
-    * AKB48 Team 8: 宮里莉羅，長久玲奈，横道侑里，中野郁海
-    * AKB48 Team A/K/B/4: 渡辺麻友，島崎遥香
-    * HKT48: 指原莉乃，宮脇咲良，松岡菜摘，田島芽瑠，松本日向，水上凜巳花，渡部愛加里
-
-
+* ### 抱有积极感情的其他成员：  
+    * AKB48 Team 8: 小田えりな，本田仁美，橋本陽菜，岡部麟，永野芹佳，大西桃香，行天優莉奈
+    * AKB48 Team A/K/B/4/研: 千葉恵里，村山彩希，浅井七海，平田侑希，山口結愛
+    * HKT48: 石橋颯，竹本くるみ，松岡はな，市村愛里，梁瀬鈴雅，井澤美優（几乎所有人！没办法箱推是这样的）
+    
+* ### 喜欢的已毕业成员（祝福她们）：  
+    * AKB48 Team 8: 宮里莉羅，長久玲奈，横道侑里，中野郁海，濵咲友菜，藤園麗，坂口渚沙，吉川七瀬
+    * AKB48 Team A/K/B/4: 渡辺麻友
+    * HKT48: 宮脇咲良，松本日向，水上凜巳花，矢吹奈子，本村碧唯，運上弘菜
 
 
-### Top 10 playlist of this month (2023.03)：
-1. [猫アレルギー](https://open.spotify.com/track/6MCAUevCAr5U5aQaJK0FOm?si=73bc29b7853a412a)  
-2. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y?si=10bf958e12e74551)  
-3. [引っ越しました](https://open.spotify.com/track/4waGFpTJwxR3vtyzPDy5an?si=993349ab17764549)  
-4. [モニカ、夜明けだ](https://open.spotify.com/track/6v6cdCwyq6EyGsRsqzXWmY?si=bf6d5b5a631141f6)  
-5. [制服レジスタンス](https://open.spotify.com/track/1u3pKMPaMnJH4lgl4tSGk3?si=5333d86df3c7413f)  
-6. [逆転王子様](https://open.spotify.com/track/2bi2hWZODKa6xq7haBCcrE?si=7537fd3162494a9e)  
-7. [蜂の巣ダンス](https://open.spotify.com/track/7cLBuTgnDqzcxUZ3ZUn5lw?si=818e12bd42c9424c)  
-8. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4?si=80b6c4ceda21453d)  
-9. [ウィンクは3回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG?si=b7ed6486133b40b1)  
-10. [君はもっとできる](https://open.spotify.com/track/2dgP7Se9sBdETi1eGTrjah?si=0111f45e5fe84d95)  
+
+### 上个月的 Top 10 歌单 (2023.10)：
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+3. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+4. [Choose me!](https://open.spotify.com/track/42hZPol0ZeU4l37LtIfkzJ)  
+5. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
+6. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+7. [挨拶から始めよう](https://open.spotify.com/track/0E2RvBloxOfh8qdud3LHF9)  
+8. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3)  
+9. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
+10. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV)  
