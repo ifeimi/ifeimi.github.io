@@ -8,7 +8,7 @@ main:
     url: /gallery/    
 
   - title: "Blog"
-    url: /blog/
+    url: /posts/
 
   - title: "Whisper48"
     url: /whisper48/
