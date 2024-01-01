@@ -1,5 +1,5 @@
 ---
-title: 'Feimi&#39;s Subtitiling Notebook (5) - File Management and Collaboration'
+title: 'Feimi&#39;s Subtitling Notebook (5) - File Management and Collaboration'
 date: 2024-01-01
 permalink: /posts/240101_5/
 tags:
@@ -26,4 +26,4 @@ On the other hand, branch allows multiple versions of a file to be worked on sim
 
 For new users, if you would like to learn more about Git, there are a lot of tutorials available on the internet, [this one](https://www.w3schools.com/git/){:target="_blank"} and [this one](https://learngitbranching.js.org/){:target="_blank"} as two examples.  
 
-Git repositories can be hosted on many git server providers, like [github](https://github.com/){:target="_blank"} or [GitLab](https://about.gitlab.com/){:target="_blank"}. My subtitile files are placed on a [gitee repo](https://gitee.com/ifeimi/akbsub){:target="_blank"}, however this is a private repo so you are probably not able see it. 
+Git repositories can be hosted on many git server providers, like [github](https://github.com/){:target="_blank"} or [GitLab](https://about.gitlab.com/){:target="_blank"}. My subtitle files are placed on a [gitee repo](https://gitee.com/ifeimi/akbsub){:target="_blank"}, however this is a private repo so you are probably not able see it. 

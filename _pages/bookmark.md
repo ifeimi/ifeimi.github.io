@@ -38,9 +38,9 @@ I am kind of experienced in video editting. Started in 2017, I was using [Adobe 
 
 However, after graduation, Adobe softwares were no longer available for free. Then I switched to open-sourced [kdenlive](https://kdenlive.org/en/){:target="_blank"} in 2021. I'm always in favor of free and especially open-source softwares, but I was not quite accustomed to kdenlive actually. Therefore after I saw a recommendation from [Mediastorm](https://space.bilibili.com/946974){:target="_blank"}, I immediately started with [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve). The free version of DaVinci Resolve already offers more than enough functions for me. So I believe I will continue using it for a long time.  
 
-I edit subtitiles with [Aegisub](https://aegisite.vercel.app/), and export videos with hard-coded subtitles using [ArcTime Pro](https://arctime.org/){:target="_blank"}.  
+I edit subtitles with [Aegisub](https://aegisite.vercel.app/), and export videos with hard-coded subtitles using [ArcTime Pro](https://arctime.org/){:target="_blank"}.  
 
-I use (at least starting from the beginning of 2023) open-sourced fonts [Noto](https://fonts.google.com/noto){:target="_blank"} for my subtitiles.  
+I use (at least starting from the beginning of 2023) open-sourced fonts [Noto](https://fonts.google.com/noto){:target="_blank"} for my subtitles.  
 
 
 ### Some interesting links in my bookmarks
