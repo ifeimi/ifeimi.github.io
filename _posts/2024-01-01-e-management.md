@@ -6,9 +6,6 @@ tags:
   - subtitling
 ---
 
-Introduction
-======
-
 For team collaboration, it is preferable to always keep the file up-to-date among teammates and make changes traceable. I don't know if this sounds like anything to you, but for me, this reminds me of what programmers do. In fact, after testing in practice, [Git](https://en.wikipedia.org/wiki/Git){:target="_blank"} has proved to be a very helpful tool in online file exchange, change tracking, and branch management. 
 
 For example, Git compares the file before and after every commit and shows what has been changed. As seen in the screen shot below, red lines are contents in the old file and green lines shows what has been changed. This makes it easy and clear to track what other people has worked on. 
