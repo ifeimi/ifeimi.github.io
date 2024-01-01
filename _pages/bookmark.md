@@ -29,7 +29,7 @@ I will continously upload *timestamped* AKB48 lyrics after I made such videos. T
 
 * Chinese translations by other people are *not* included in my shares due to copyright reasons. Please refer to their individual sources for authorization and conditions of sharing.  
 
-* I can share some lyrics libraries that may be of interest. Original Japanese lyrics and English translations can be found on [*STUDIO48*](http://stage48.net/studio48/lyricsindex.html). [*Team8的日常*](https://www.bilibili.com/read/cv6000223) shares translations for Team 8 lyrics (サヨナラじゃない not included). [*麻里熊*](https://www.douban.com/doulist/1783038/) shares a complete library of all AKB48, sister groups, and even Nogizaka46's singles, albums, and theatre stages, *before the end of 2017*. [*夏本健*](https://weibo.com/u/5019394712) is constantly making high quality translations, *rhyming and suitable for singing*. Some of his old productions can also be found on [Youtube](https://www.youtube.com/@AKBchinese/videos).   
+* I can share some lyrics libraries that may be of interest. Original Japanese lyrics and English translations can be found on [*STUDIO48*](http://stage48.net/studio48/lyricsindex.html). [*Team8的日常*](https://www.bilibili.com/read/cv6000223) shares translations for Team 8 lyrics (『サヨナラじゃない』 not included). [*麻里熊*](https://www.douban.com/doulist/1783038/) shares a complete library of all AKB48, sister groups, and even Nogizaka46's singles, albums, and theatre stages, *before the end of 2017*. [*夏本健*](https://weibo.com/u/5019394712) is constantly making high quality translations, *rhyming and suitable for singing*. Some of his old productions can also be found on [Youtube](https://www.youtube.com/@AKBchinese/videos).   
 
 
 ### My personal workflow for video editting

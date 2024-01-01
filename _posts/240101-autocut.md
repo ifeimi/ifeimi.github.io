@@ -1,0 +1,58 @@
+---
+title: 'Feimi's Subtitiling Notebook (3) - Autocut'
+date: 2024-01-01
+permalink: /posts/240101_3
+tags:
+  - subtitling
+---
+
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+Introduction
+======
+
+It is a common need to cut out fragments out of a long video and join them together, for example, to make a collection of clips from a Showroom video. Here we describe an easy approach to do this based on the timestamps from the subtitiles instead of all the annoying Pr stuff. In the previous chapter it has been described how to transcribe audio to subtitiles for a video. If we select out the subtitles corresponding to desired video clips, these timestamps can already be used as input for automatic video clipping with FFmpeg. The basic idea is to cut out the video segment corresponding to each line in the subtitles, and join all the segments together in the end. In this way, which video parts are retained can be controlled by the contents of the subtitles. In principle, this can be easily achieved by a python script which reads the subtitile file and calls FFmpeg for editting. We can either write the script on our own, or use what is already provided in an open-sourced package [autocut](https://github.com/mli/autocut).  
+
+Examples made in this way can be found [here](https://www.bilibili.com/video/BV1pw411G7HW) and [here](https://www.bilibili.com/video/BV1aC4y1D74Q).  
+
+
+Prerequisites
+======
+1. Install python and pytorch (preferrably with conda). 
+2. Install CUDA (not necessary but recommended) and FFmpeg. 
+
+
+Step by step
+======
+1. Install autocut. Follow [the instructions in the ropository](https://github.com/mli/autocut?tab=readme-ov-file). 
+
+2. Download the video and transcribe the subtitile. Make necessary adjustments to make sure the timestamps are correct and appropriate for audiences.<sup>a</sup> 
+
+3. Select the parts of video which you desire and leave only the subtitiles corresponding to these parts. Delete all other subtitiles. If you want to have some no-speech scenes in your video, make sure you have those empty lines in the subtitle file as well.<sup>b</sup>  
+
+4. Sort the subtitile lines by time. Save the subtitle file if you are already working in .srt format, otherwise export the subtitle as an .srt file. 
+    - For example, in my working directory, the exported file was `E:/AKBsub/231229_ayaneSR/231229_ayaneSR.srt`
+
+5. Run autocut to make a cut of the video. 
+    - Open the commad line terminal on your computer (Powershell or Anaconda Powershell on Windows, terminal on Mac), enter the virtual environments you work in (if any).  
+    - Enter the working directory. `$ cd E:/AKBsub/231229_ayaneSR/`
+    - Run autocut. `$ autocut -c 231229_ayaneSR.mp4 231229_ayaneSR.srt`
+
+6. Now, the subtitles are still timestamped to the original video. We need to cut them as well to match the video cut. In order to do this, I have written a simple python script `subcut.py`. This file is placed in my Whisper48 repo and can be downloaded [here](https://github.com/ifeimi/whisper48/blob/main/subcut.py).  
+    - Download the script and place it somewhere you can find (in the working directory or its parent directory). 
+    - Change the third line of the script to the path of your subtitile file.  
+    - Run the script. `$ python ./subcut.py`
+
+7. (optional) Normally, the resolution of the showroom video we can download is only 360P (640×360). Display of subtitiles under this reslution is very poor. Therefore, my common practice is to resize the video to twice its original size (720P, 1280×720). This can be achieved with ffmpeg. <sup>c</sup> 
+    - In command line terminal, use the command `$ ffmpeg -i 231229_ayaneSR_cut.mp4 -vf scale=1280:720 -preset slow -crf 18 231229_ayaneSR_cut_resize.mp4`
+
+8. Format the subtitiles. Export the video. 
+
+
+Useful notes
+======
+a. "Appropriate" meaning enough blanck is left before and after each sentence. Usually empty lines must be used to keep a good spacing between video segments. Usually what I do is: Before any further editting, extend all the transcribed subtitile lines to at least 100 ms in advance and 400 ms delay, and join all neighboring segments with an interval shorter than 500 ms. Make sure there is no overlapping.  
+
+b. Remember this subtitile is used for clipping the video. Do not make the speaker sound like they cound never catch a breath! A short space after every two or three sentences and another longer space between different topics of talking is often good.  
+
+c. Please notice that this does not increase the quality of the video, but only improves the clarity of the subtitiles after exporting.
