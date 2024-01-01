@@ -130,3 +130,15 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [HKT城、今、動く](https://open.spotify.com/track/52H50eERzgORnx6PyLPFl4)  
 9. [突然 Do love me!](https://open.spotify.com/track/5PmE6alUsOcJw6e1kTtI6z)  
 10. [10年桜](https://open.spotify.com/track/7cyxw7Vy1RG64hyhXtNwWK)  
+
+### Last month's top 10 playlist (2023.11)：
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+3. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+4. [Choose me!](https://open.spotify.com/track/42hZPol0ZeU4l37LtIfkzJ)  
+5. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
+6. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+7. [挨拶から始めよう](https://open.spotify.com/track/0E2RvBloxOfh8qdud3LHF9)  
+8. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3)  
+9. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
+10. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV)  

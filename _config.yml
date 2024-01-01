@@ -83,7 +83,7 @@ author:
   name             : "feimi"
   avatar           : "profile.png"
   bio              : "researcher, fan, life-enthusiast"
-  location         : "Aachen, Germany"
+  location         : "Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -189,9 +189,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   -
     scope:

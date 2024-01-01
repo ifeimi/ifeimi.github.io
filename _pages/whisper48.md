@@ -1,6 +1,6 @@
 ---
 title: "Whisper48"
-permalink: /whisper48/
+permalink: /archive/whisper48/
 layout: single
 author_profile: true
 ---
