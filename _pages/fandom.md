@@ -34,14 +34,15 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
     * HKT48: 宮脇咲良，松本日向，水上凜巳花，矢吹奈子，本村碧唯，運上弘菜，田中美久
 
 
-### Last month's top 10 playlist (2023.12)：
-1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
-2. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
-3. [星空を君に](https://open.spotify.com/track/2zcHT6hnnZMTHk7YixrxLy)  
-4. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
-5. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
-6. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4)  
-7. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
-8. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
-9. [74億分の1の君へ](https://open.spotify.com/track/4W81NsjSTD9fhAEseyJiGL)  
-10. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV)  
+### Top 10 playlist in last month (2024.01)：
+
+1. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+2. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+3. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+4. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+5. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4)  
+6. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+7. [久しぶりのリップグロス](https://open.spotify.com/track/6aUuSvVGMMHL15v4d2qWie)  
+8. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+9. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+10. [引っ越しました](https://open.spotify.com/track/0twGhwOLioaQPahVl4aEoz)  

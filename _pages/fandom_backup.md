@@ -142,3 +142,15 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3)  
 9. [最強ツインテール](https://open.spotify.com/track/340UFWReVkIEJRr0nfnl1Y)  
 10. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV)  
+
+### Last month's top 10 playlist (2023.12)：
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+3. [星空を君に](https://open.spotify.com/track/2zcHT6hnnZMTHk7YixrxLy)  
+4. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+5. [どうしても君が好きだ](https://open.spotify.com/track/42UvuSbUFiEM7kW2CEkQEN)  
+6. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4)  
+7. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+8. [帰り道は遠回りしたくなる](https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv)  
+9. [74億分の1の君へ](https://open.spotify.com/track/4W81NsjSTD9fhAEseyJiGL)  
+10. [誕生日TANGO](https://open.spotify.com/track/4nkzmZo6syOK4qOwu1KQsV)  
