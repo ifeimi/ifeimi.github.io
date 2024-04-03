@@ -36,13 +36,13 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 
 ### Top 10 playlist in last month (2024.02)：
 
-1. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
-2. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
-3. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
-4. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
-5. [バケツを被れ！](https://open.spotify.com/track/1CZObzFWzNSgMxSJvN0Mha)  
-6. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
-7. [制服の羽根](https://open.spotify.com/track/4ALwDLoqKzR6apX7NHG7q4)  
-8. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
-9. [星空を君に](https://open.spotify.com/track/2zcHT6hnnZMTHk7YixrxLy)  
-10. [お願いヴァレンティヌ](https://open.spotify.com/track/4NbUqEJnGQAEDvfb1LB5V3)  
+1. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+2. [ビーサンはなぜなくなるのか？](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
+3. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+4. [バケツを被れ！](https://open.spotify.com/track/1CZObzFWzNSgMxSJvN0Mha)  
+5. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+6. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+7. [ウインクは３回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG)  
+8. [星空を君に](https://open.spotify.com/track/2zcHT6hnnZMTHk7YixrxLy)  
+9. [桜、みんなで食べた](https://open.spotify.com/track/5zmu3BRrvsRCDpOcLxGDWq)  
+10. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  

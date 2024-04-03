@@ -14,7 +14,7 @@ Apple iCloud Calendar serves as an important tool in both my work and life. Belo
 [AKB48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GNTNhgzMJxGeVWJ9p-4g1sgAOE2zlE5BUeUfoewECPQjZNGy4ViS-zfdT3BkUyao){:target="_blank"}: Theartre performances and concerts of AKB48.  
 [HKT48](webcal://p103-caldav.icloud.com/published/2/MjA1MjQ3NjAwNDAyMDUyNJHuBm4JvFsW9O5xhZKJaN-GGyoCNUTEWTsrAXR1jBUNtvVC4FxIv_9ioZsAlKUVeZ3R72HgRaM9Jv9ZVooX0jc){:target="_blank"}: Theartre performances and concerts of HKT48.  
 
-Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Time, UTC+1:00).  
+Subscriptions (by simply clicking the calendar names above) are highly welcome. Calendars are usually updated on every Friday afternoon (Central European Summer Time, UTC+2:00).  
 
 
 ### AKB lyrics
