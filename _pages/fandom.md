@@ -34,7 +34,7 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
     * HKT48: 宮脇咲良，松本日向，水上凜巳花，矢吹奈子，本村碧唯，運上弘菜，田中美久
 
 
-### Top 10 playlist in last month (2024.02)：
+### Top 10 playlist in last month (2024.03)：
 
 1. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
 2. [ビーサンはなぜなくなるのか？](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
