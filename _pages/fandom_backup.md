@@ -180,3 +180,16 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [星空を君に](https://open.spotify.com/track/2zcHT6hnnZMTHk7YixrxLy)  
 9. [桜、みんなで食べた](https://open.spotify.com/track/5zmu3BRrvsRCDpOcLxGDWq)  
 10. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+
+### Top 10 playlist in last month (2024.04)：
+
+1. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+2. [ビーサンはなぜなくなるのか？](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
+3. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+4. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+5. [唇にBe My Baby](https://open.spotify.com/track/1KdAnonsgEJOzOM6lLWcbf)  
+6. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+7. [バケツを被れ！](https://open.spotify.com/track/1CZObzFWzNSgMxSJvN0Mha)  
+8. [74億分の1の君へ](https://open.spotify.com/track/4W81NsjSTD9fhAEseyJiGL)  
+9. [竹内先輩](https://open.spotify.com/track/7DlZt2RSFsXCzS9wWfRtjo)  
+10. [３ー２](https://open.spotify.com/track/4pYqygRHAC35hBkZ12kdTQ)  
