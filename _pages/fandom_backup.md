@@ -193,3 +193,16 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [74億分の1の君へ](https://open.spotify.com/track/4W81NsjSTD9fhAEseyJiGL)  
 9. [竹内先輩](https://open.spotify.com/track/7DlZt2RSFsXCzS9wWfRtjo)  
 10. [３ー２](https://open.spotify.com/track/4pYqygRHAC35hBkZ12kdTQ)  
+
+### Top 10 playlist in last month (2024.05)：
+
+1. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
+2. [カラコンウインク](https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi)  
+3. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+4. [ビーサンはなぜなくなるのか？](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
+5. [私たちのReason](https://open.spotify.com/track/3pnAbpUIxPoz7bkA4SQMSB)  
+6. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+7. [虹の列車](https://open.spotify.com/track/1LIlu4AqdkOutOg55slHUV)  
+8. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+9. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+10. [ウインクは３回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG)  
