@@ -20,7 +20,7 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 * ### Other members I like：  
     * AKB48 Team 8: 小栗有以，徳永羚海
     * AKB48 Team A/K/B/4: 平田侑希，山口結愛
-    * HKT48: 井澤美優，大庭凜咲, 江浦優香, 龍頭綺音
+    * HKT48: 井澤美優，大庭凜咲，江浦優香，龍頭綺音
 
 * ### Other members I have some positive feelings：  
     * AKB48 Team 8: 坂川陽香，橋本陽菜，永野芹佳
@@ -29,20 +29,20 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
     * Nogizaka46: 冨里奈央
     
 * ### Members I like, but graduated (sad but best wishes to them)：  
-    * AKB48 Team 8: 濵咲友菜，藤園麗，坂口渚沙，吉川七瀬，本田仁美，小田えりな
+    * AKB48 Team 8: 濵咲友菜，坂口渚沙，吉川七瀬，本田仁美，小田えりな
     * AKB48 Team A/K/B/4: 渡辺麻友
     * HKT48: 宮脇咲良，水上凜巳花，矢吹奈子，運上弘菜，田中美久
 
 
-### Top 10 playlist in last month (2024.06)：
+### Top 10 playlist in last month (2024.07)：
 
 1. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
-2. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
-3. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+2. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+3. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
 4. [カラコンウインク](https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi)  
-5. [何度も狙え!](https://open.spotify.com/track/0bRWGxIaYkdBGhIkxzrffM)  
-6. [虹の列車](https://open.spotify.com/track/1LIlu4AqdkOutOg55slHUV)  
-7. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
-8. [私たちのReason](https://open.spotify.com/track/3pnAbpUIxPoz7bkA4SQMSB)  
-9. [BINGO!](https://open.spotify.com/track/18U8t9yV3UAAzqrnzX5BIe)  
-10. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+5. [ビーサンはなぜなくなるのか？](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
+6. [何度も狙え!](https://open.spotify.com/track/0bRWGxIaYkdBGhIkxzrffM)  
+7. [虹の列車](https://open.spotify.com/track/1LIlu4AqdkOutOg55slHUV)  
+8. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
+9. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
+10. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3)  

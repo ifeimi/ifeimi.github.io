@@ -206,3 +206,16 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
 9. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
 10. [ウインクは３回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG)  
+
+### Top 10 playlist in last month (2024.06)：
+
+1. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
+2. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
+3. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+4. [カラコンウインク](https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi)  
+5. [何度も狙え!](https://open.spotify.com/track/0bRWGxIaYkdBGhIkxzrffM)  
+6. [虹の列車](https://open.spotify.com/track/1LIlu4AqdkOutOg55slHUV)  
+7. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
+8. [私たちのReason](https://open.spotify.com/track/3pnAbpUIxPoz7bkA4SQMSB)  
+9. [BINGO!](https://open.spotify.com/track/18U8t9yV3UAAzqrnzX5BIe)  
+10. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
