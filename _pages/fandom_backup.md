@@ -219,3 +219,42 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [私たちのReason](https://open.spotify.com/track/3pnAbpUIxPoz7bkA4SQMSB)  
 9. [BINGO!](https://open.spotify.com/track/18U8t9yV3UAAzqrnzX5BIe)  
 10. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+
+### Top 10 playlist in last month (2024.07)：
+
+1. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
+2. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+3. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
+4. [カラコンウインク](https://open.spotify.com/track/6ZKmQF0QveVe21lt6nEJvi)  
+5. [ビーサンはなぜなくなるのか？](https://open.spotify.com/track/2ojcS6okURPeumd5OZ1bb9)  
+6. [何度も狙え!](https://open.spotify.com/track/0bRWGxIaYkdBGhIkxzrffM)  
+7. [虹の列車](https://open.spotify.com/track/1LIlu4AqdkOutOg55slHUV)  
+8. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
+9. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
+10. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3)  
+
+### Top 10 playlist in last month (2024.08)：
+
+1. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
+2. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
+3. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+4. [地下鉄のTeddy boy](https://open.spotify.com/track/203jNHUFCO5fZ0SQpxXDUN)  
+5. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+6. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
+7. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+8. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
+9. [何度も狙え!](https://open.spotify.com/track/0bRWGxIaYkdBGhIkxzrffM)  
+10. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+
+### Top 10 playlist in last month (2024.09)：
+
+1. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
+2. [君とどこかへ行きたい](https://open.spotify.com/track/1D3S0QBoxzgXN7NHiz7KC3)  
+3. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
+4. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+5. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+6. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
+7. [挨拶から始めよう](https://open.spotify.com/track/0E2RvBloxOfh8qdud3LHF9)  
+8. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+9. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
+10. [３ー２](https://open.spotify.com/track/4pYqygRHAC35hBkZ12kdTQ)  
