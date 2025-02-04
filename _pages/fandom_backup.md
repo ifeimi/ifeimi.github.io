@@ -258,3 +258,16 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
 9. [キスは待つしかないのでしょうか？](https://open.spotify.com/track/79WstEMUylIx1atjIXOtRF)  
 10. [３ー２](https://open.spotify.com/track/4pYqygRHAC35hBkZ12kdTQ)  
+
+### Top 10 playlist in last month (2024.10)：
+
+1. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
+2. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+3. [カトレアの花を見る度に思い出す](https://open.spotify.com/track/4nLo7Ww0aYxaosJTc0pLg6)  
+4. [青い月が見てるから](https://open.spotify.com/track/0Y3JWn4MkfsAMofl0nUh2Z)  
+5. [君の名は希望](https://open.spotify.com/track/6v3finV0liJQHlG3op1oy0)  
+6. [何度も狙え!](https://open.spotify.com/track/0bRWGxIaYkdBGhIkxzrffM)  
+7. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
+8. [地下鉄のTeddy boy](https://open.spotify.com/track/203jNHUFCO5fZ0SQpxXDUN)  
+9. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
+10. [僕はやっと君を心配できる](https://open.spotify.com/track/431Jy6b7sEWMYLcUzQ5I76)  
