@@ -271,3 +271,16 @@ This is only a casual introduction of whom I'm fond of and nothing serious! As w
 8. [地下鉄のTeddy boy](https://open.spotify.com/track/203jNHUFCO5fZ0SQpxXDUN)  
 9. [100年先でも](https://open.spotify.com/track/1cBxF0x3wZJYDnjHvQSa03)  
 10. [僕はやっと君を心配できる](https://open.spotify.com/track/431Jy6b7sEWMYLcUzQ5I76)  
+
+### Top 10 playlist in last month (2025.01)：
+
+1. [ミニスカートの妖精](https://open.spotify.com/track/0kefcRWSJu7MyuCRIyxo6W)  
+2. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
+3. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+4. [Get you!](https://open.spotify.com/track/0r2RPfgzffLxLhQUNNn9Wn)  
+5. [あの夏の防波堤](https://open.spotify.com/track/4ij50AuhyA1zGqY95sJEyF)  
+6. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
+7. [暗闇](https://open.spotify.com/track/01DPWHlpb1z2BjXoZdmJXt)  
+8. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
+9. [LOVE 修行](https://open.spotify.com/track/1tl9C6UwSTHTwoVPSybx8H)  
+10. [おしゃべりジュークボックス](https://open.spotify.com/track/25PLpCmpT79nS4jojK2qio)  

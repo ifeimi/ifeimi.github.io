@@ -33,15 +33,15 @@ This is only a casual introduction of what I'm interested in and nothing serious
     * HKT48: 宮脇咲良，水上凜巳花，矢吹奈子，運上弘菜，田中美久
 
 
-### Top 10 playlist in last month (2025.01)：
+### Top 10 playlist in last month (2025.02)：
 
-1. [ミニスカートの妖精](https://open.spotify.com/track/0kefcRWSJu7MyuCRIyxo6W)  
-2. [星が消えないうちに](https://open.spotify.com/track/4FpefikHd3hGI1p8a7RhFQ)  
-3. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
-4. [Get you!](https://open.spotify.com/track/0r2RPfgzffLxLhQUNNn9Wn)  
-5. [あの夏の防波堤](https://open.spotify.com/track/4ij50AuhyA1zGqY95sJEyF)  
-6. [ロマンスかくれんぼ](https://open.spotify.com/track/4uZj5qe6wfCHoAWW4NbdOK)  
-7. [暗闇](https://open.spotify.com/track/01DPWHlpb1z2BjXoZdmJXt)  
-8. [7時12分の初恋](https://open.spotify.com/track/11zSwZDZa2tflgBAKWAHRB)  
-9. [LOVE 修行](https://open.spotify.com/track/1tl9C6UwSTHTwoVPSybx8H)  
-10. [おしゃべりジュークボックス](https://open.spotify.com/track/25PLpCmpT79nS4jojK2qio)  
+1. [アイドルなんかじゃなかったら](https://open.spotify.com/track/0svM1S2Msb3aIfpf2Cf0YT)  
+2. [君の名は希望](https://open.spotify.com/track/6cpCNUPcAoiSKcQC65MoEE)  
+3. [控えめI love you !](https://open.spotify.com/track/0Zu1VrL45ZEvYYnpOCiPGB)  
+4. [大人列車](https://open.spotify.com/track/0cgm9YBoylZqjmdhqgjEQh)  
+5. [ミニスカートの妖精](https://open.spotify.com/track/0kefcRWSJu7MyuCRIyxo6W)  
+6. [そういうことFebruary](https://open.spotify.com/track/4Kf0nhlJ3LxBHO3DyNYA0b)  
+7. [ウインクは３回](https://open.spotify.com/track/2IZOrNDFkxomZqyPlxNPQG)  
+8. [気づいたら片想い](https://open.spotify.com/track/0yip7UVoWSJpkgp2Uluj8O)  
+9. [挨拶から始めよう](https://open.spotify.com/track/0E2RvBloxOfh8qdud3LHF9)  
+10. [サヨナラの意味](https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd)  
